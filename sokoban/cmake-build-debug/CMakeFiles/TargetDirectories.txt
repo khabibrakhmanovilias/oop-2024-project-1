@@ -1,0 +1,3 @@
+F:/prog/oop spring 2024/projects/qwe/sokoban/cmake-build-debug/CMakeFiles/sokoban.dir
+F:/prog/oop spring 2024/projects/qwe/sokoban/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/prog/oop spring 2024/projects/qwe/sokoban/cmake-build-debug/CMakeFiles/rebuild_cache.dir
